@@ -1,0 +1,14 @@
+{
+  "Soccer": [
+    { 
+      "stato": "LIVE", 
+      "titolo": "Champions League: Real Madrid vs Milan", 
+      "descrizione": "Testing the online database! It works!",
+      "streams": [
+        { "vpn": "🇦🇹 Austria (ServusTV)", "url": "https://www.servustv.com" }
+      ]
+    }
+  ],
+  "Basket": [], "Motors": [], "Tennis": [], "Volley": [], 
+  "Rugby": [], "Cricket": [], "AmFootball": [], "Baseball": [], "Hockey": []
+}
