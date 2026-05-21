@@ -1,50 +1,69 @@
 {
-  "Soccer": [
+  "Cycling": [
     {
-      "stato": "20:45",
-      "titolo": "UEFA Women's Champions League: Semi-Final",
-      "descrizione": "Watch the top European women's clubs battle for a spot in the final.",
+      "titolo": "Giro d'Italia - Stage 18",
+      "tipo_trasmissione": "Live / Direct",
+      "orario_previsto": "14:00 CET",
+      "descrizione": "Crucial mountain stage monitored via Eurosport cycling calendar.",
       "streams": [
-        { "vpn": "🇬🇧 United Kingdom (DAZN YouTube)", "url": "https://www.youtube.com/@DAZNWomensFootball" }
+        { "vpn": "🇮🇹 ITALY (RaiPlay)", "url": "https://www.raiplay.it" },
+        { "vpn": "🇨🇭 SWITZERLAND (RTS Sport)", "url": "https://www.rts.ch/sport" }
+      ]
+    },
+    {
+      "titolo": "Giro d'Italia - Extra Highlights",
+      "tipo_trasmissione": "Delayed / Differita",
+      "orario_previsto": "20:00 CET",
+      "descrizione": "Evening wrap-up and post-race tactical analysis.",
+      "streams": [
+        { "vpn": "🇧🇪 BELGIUM (RTBF Auvio)", "url": "https://www.rtbf.be/auvio" }
       ]
     }
   ],
-  "Basket": [
+  "Soccer": [
     {
-      "stato": "02:30",
-      "titolo": "NBA Playoffs: Conference Finals",
-      "descrizione": "High-stakes basketball action live from the United States.",
+      "titolo": "UEFA Europa League: Semi-Final Second Leg",
+      "tipo_trasmissione": "Live / Direct",
+      "orario_previsto": "21:00 CET",
+      "descrizione": "Matchday fixture verified on Diretta.it football hub.",
       "streams": [
-        { "vpn": "🇦🇺 Australia (SBS On Demand)", "url": "https://www.sbs.com.au/ondemand" }
+        { "vpn": "🇦🇹 AUSTRIA (ServusTV)", "url": "https://www.servustv.com" },
+        { "vpn": "🇮🇪 IRELAND (RTÉ Player)", "url": "https://www.rte.ie/player" }
       ]
     }
   ],
   "Motors": [
     {
-      "stato": "LIVE",
-      "titolo": "Formula 1: Monaco Grand Prix - Practice",
-      "descrizione": "Free practice sessions live from the iconic streets of Monte Carlo.",
+      "titolo": "Formula 1: Monaco GP - Practice 1 & 2",
+      "tipo_trasmissione": "Live / Direct",
+      "orario_previsto": "13:30 & 17:00 CET",
+      "descrizione": "Opening free practice sessions on the streets of Monte Carlo.",
       "streams": [
-        { "vpn": "🇦🇹 Austria (ServusTV)", "url": "https://www.servustv.com" },
-        { "vpn": "🇱🇺 Luxembourg (RTL Tele)", "url": "https://www.rtl.lu" }
+        { "vpn": "🇦🇹 AUSTRIA (ORF ON)", "url": "https://on.orf.at" },
+        { "vpn": "🇱🇺 LUXEMBOURG (RTL Play)", "url": "https://www.rtlplay.lu" }
+      ]
+    },
+    {
+      "titolo": "Formula 1: Monaco GP - Practice Highlights",
+      "tipo_trasmissione": "Delayed / Differita",
+      "orario_previsto": "22:15 CET",
+      "descrizione": "Full replay and highlights of today's Monaco sessions.",
+      "streams": [
+        { "vpn": "🇮🇹 ITALY (TV8)", "url": "https://www.tv8.it" }
       ]
     }
   ],
   "Tennis": [
     {
-      "stato": "LIVE",
-      "titolo": "Roland Garros: Qualification Rounds",
-      "descrizione": "Players fight for a spot in the main draw of the French Open.",
+      "titolo": "Roland Garros: Qualifying Day 4",
+      "tipo_trasmissione": "Live / Direct",
+      "orario_previsto": "11:00 AM CET",
+      "descrizione": "Knockout qualification brackets live from Paris via Eurosport.",
       "streams": [
-        { "vpn": "🇫🇷 France (France.tv)", "url": "https://www.france.tv/sport" },
-        { "vpn": "🇦🇺 Australia (9Now)", "url": "https://www.9now.com.au" }
+        { "vpn": "🇫🇷 FRANCE (France.tv)", "url": "https://www.france.tv/sport" }
       ]
     }
   ],
-  "Volley": [],
-  "Rugby": [],
-  "Cricket": [],
-  "AmFootball": [],
-  "Baseball": [],
-  "Hockey": []
+  "Basket": [],
+  "Volley": []
 }
