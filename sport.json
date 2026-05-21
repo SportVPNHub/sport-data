@@ -1,31 +1,22 @@
 {
   "Cycling": [
     {
-      "titolo": "Giro d'Italia - Stage 18",
+      "titolo": "Giro d'Italia - Live Stage Coverage",
       "tipo_trasmissione": "Live / Direct",
-      "orario_previsto": "14:00 CET",
-      "descrizione": "Crucial mountain stage monitored via Eurosport cycling calendar.",
+      "orario_previsto": "12:00 GMT",
+      "descrizione": "Verified afternoon flat/mountain stage via Eurosport Live updates.",
       "streams": [
         { "vpn": "🇮🇹 ITALY (RaiPlay)", "url": "https://www.raiplay.it" },
         { "vpn": "🇨🇭 SWITZERLAND (RTS Sport)", "url": "https://www.rts.ch/sport" }
-      ]
-    },
-    {
-      "titolo": "Giro d'Italia - Extra Highlights",
-      "tipo_trasmissione": "Delayed / Differita",
-      "orario_previsto": "20:00 CET",
-      "descrizione": "Evening wrap-up and post-race tactical analysis.",
-      "streams": [
-        { "vpn": "🇧🇪 BELGIUM (RTBF Auvio)", "url": "https://www.rtbf.be/auvio" }
       ]
     }
   ],
   "Soccer": [
     {
-      "titolo": "UEFA Europa League: Semi-Final Second Leg",
+      "titolo": "European Leagues Playoffs",
       "tipo_trasmissione": "Live / Direct",
-      "orario_previsto": "21:00 CET",
-      "descrizione": "Matchday fixture verified on Diretta.it football hub.",
+      "orario_previsto": "19:00 GMT",
+      "descrizione": "Live broadcast mapping from Diretta.it match tables.",
       "streams": [
         { "vpn": "🇦🇹 AUSTRIA (ServusTV)", "url": "https://www.servustv.com" },
         { "vpn": "🇮🇪 IRELAND (RTÉ Player)", "url": "https://www.rte.ie/player" }
@@ -34,20 +25,41 @@
   ],
   "Motors": [
     {
-      "titolo": "Formula 1: Monaco GP - Practice 1 & 2",
+      "titolo": "Formula 1: Grand Prix of Canada (Montreal) - FP1 & Sprint Qualy",
       "tipo_trasmissione": "Live / Direct",
-      "orario_previsto": "13:30 & 17:00 CET",
-      "descrizione": "Opening free practice sessions on the streets of Monte Carlo.",
+      "orario_previsto": "FP1: 16:30 GMT | Sprint Qualy: 20:30 GMT",
+      "descrizione": "Official sessions from Circuit Gilles-Villeneuve.",
       "streams": [
         { "vpn": "🇦🇹 AUSTRIA (ORF ON)", "url": "https://on.orf.at" },
+        { "vpn": "🇱🇺 LUXEMBOURG (RTL Play)", "url": "https://www.rtlplay.lu" },
+        { "vpn": "🇧🇪 BELGIUM (RTBF Auvio)", "url": "https://www.rtbf.be/auvio" }
+      ]
+    },
+    {
+      "titolo": "Formula 1: Grand Prix of Canada - Sprint Race & Main Qualifying",
+      "tipo_trasmissione": "Live / Direct",
+      "orario_previsto": "Sprint: 16:00 GMT | Qualifying: 20:00 GMT",
+      "descrizione": "Saturday sessions monitored via official F1 schedule.",
+      "streams": [
+        { "vpn": "🇦🇹 AUSTRIA (ServusTV)", "url": "https://www.servustv.com" },
         { "vpn": "🇱🇺 LUXEMBOURG (RTL Play)", "url": "https://www.rtlplay.lu" }
       ]
     },
     {
-      "titolo": "Formula 1: Monaco GP - Practice Highlights",
+      "titolo": "Formula 1: Grand Prix of Canada - Race (70 Laps)",
+      "tipo_trasmissione": "Live / Direct",
+      "orario_previsto": "Sunday 20:00 GMT",
+      "descrizione": "Full world championship race stream.",
+      "streams": [
+        { "vpn": "🇦🇹 AUSTRIA (ServusTV)", "url": "https://www.servustv.com" },
+        { "vpn": "🇧🇪 BELGIUM (RTBF Auvio)", "url": "https://www.rtbf.be/auvio" }
+      ]
+    },
+    {
+      "titolo": "Formula 1: Grand Prix of Canada - Highlights",
       "tipo_trasmissione": "Delayed / Differita",
-      "orario_previsto": "22:15 CET",
-      "descrizione": "Full replay and highlights of today's Monaco sessions.",
+      "orario_previsto": "Approx 23:30 GMT",
+      "descrizione": "Delayed playback configuration for free TV.",
       "streams": [
         { "vpn": "🇮🇹 ITALY (TV8)", "url": "https://www.tv8.it" }
       ]
@@ -55,10 +67,10 @@
   ],
   "Tennis": [
     {
-      "titolo": "Roland Garros: Qualifying Day 4",
+      "titolo": "Roland Garros Tournament Matches",
       "tipo_trasmissione": "Live / Direct",
-      "orario_previsto": "11:00 AM CET",
-      "descrizione": "Knockout qualification brackets live from Paris via Eurosport.",
+      "orario_previsto": "09:00 AM GMT",
+      "descrizione": "Day court broadcasts verified via Eurosport tennis portal.",
       "streams": [
         { "vpn": "🇫🇷 FRANCE (France.tv)", "url": "https://www.france.tv/sport" }
       ]
