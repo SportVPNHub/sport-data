@@ -1,14 +1,50 @@
 {
   "Soccer": [
-    { 
-      "stato": "LIVE", 
-      "titolo": "Champions League: Real Madrid vs Milan", 
-      "descrizione": "Testing the online database! It works!",
+    {
+      "stato": "20:45",
+      "titolo": "UEFA Women's Champions League: Semi-Final",
+      "descrizione": "Watch the top European women's clubs battle for a spot in the final.",
       "streams": [
-        { "vpn": "🇦🇹 Austria (ServusTV)", "url": "https://www.servustv.com" }
+        { "vpn": "🇬🇧 United Kingdom (DAZN YouTube)", "url": "https://www.youtube.com/@DAZNWomensFootball" }
       ]
     }
   ],
-  "Basket": [], "Motors": [], "Tennis": [], "Volley": [], 
-  "Rugby": [], "Cricket": [], "AmFootball": [], "Baseball": [], "Hockey": []
+  "Basket": [
+    {
+      "stato": "02:30",
+      "titolo": "NBA Playoffs: Conference Finals",
+      "descrizione": "High-stakes basketball action live from the United States.",
+      "streams": [
+        { "vpn": "🇦🇺 Australia (SBS On Demand)", "url": "https://www.sbs.com.au/ondemand" }
+      ]
+    }
+  ],
+  "Motors": [
+    {
+      "stato": "LIVE",
+      "titolo": "Formula 1: Monaco Grand Prix - Practice",
+      "descrizione": "Free practice sessions live from the iconic streets of Monte Carlo.",
+      "streams": [
+        { "vpn": "🇦🇹 Austria (ServusTV)", "url": "https://www.servustv.com" },
+        { "vpn": "🇱🇺 Luxembourg (RTL Tele)", "url": "https://www.rtl.lu" }
+      ]
+    }
+  ],
+  "Tennis": [
+    {
+      "stato": "LIVE",
+      "titolo": "Roland Garros: Qualification Rounds",
+      "descrizione": "Players fight for a spot in the main draw of the French Open.",
+      "streams": [
+        { "vpn": "🇫🇷 France (France.tv)", "url": "https://www.france.tv/sport" },
+        { "vpn": "🇦🇺 Australia (9Now)", "url": "https://www.9now.com.au" }
+      ]
+    }
+  ],
+  "Volley": [],
+  "Rugby": [],
+  "Cricket": [],
+  "AmFootball": [],
+  "Baseball": [],
+  "Hockey": []
 }
